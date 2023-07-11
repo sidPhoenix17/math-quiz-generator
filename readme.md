@@ -10,4 +10,4 @@ This website is not operational as the OpenAI key was accessible and I had to de
 
 Worked on creating a IPL Quiz Generator.
 
-This time, it seems to work much better. Try it out [here](https://github.com/sidPhoenix17/math-quiz-generator).
+This time, it seems to work much better. Try it out [here](https://github.com/droid-mohit/drd-trivia-backend).
